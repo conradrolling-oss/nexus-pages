@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 340 200" role="img">
+  <title>Bowfin Works logo — primary with bowfin.works name/URL lockup</title>
+  <path d="M128 71 C168 57 208 66 244 88 L239 95 C206 74 172 66 134 79 Z" fill="#12293A"/>
+  <circle cx="240" cy="103" r="6" fill="#E8762C"/>
+  <circle cx="240" cy="103" r="2.8" fill="#12293A"/>
+  <text x="170" y="122" text-anchor="middle" font-family="'Gotham','Montserrat','Avenir Next',Avenir,sans-serif" font-weight="800" font-size="44" letter-spacing="1" fill="#12293A">BFW</text>
+  <text x="170" y="156" text-anchor="middle" font-family="'Gotham','Montserrat','Avenir Next',Avenir,sans-serif" font-weight="500" font-size="15" letter-spacing="4" fill="#12293A">bowfin.works</text>
+</svg>

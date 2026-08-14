@@ -4,5 +4,6 @@
   <circle cx="240" cy="103" r="6" fill="#E8762C"/>
   <circle cx="240" cy="103" r="2.8" fill="#12293A"/>
   <text x="170" y="122" text-anchor="middle" font-family="'Gotham','Montserrat','Avenir Next',Avenir,sans-serif" font-weight="800" font-size="44" letter-spacing="1" fill="#12293A">BFW</text>
-  <text x="170" y="156" text-anchor="middle" font-family="'Gotham','Montserrat','Avenir Next',Avenir,sans-serif" font-weight="500" font-size="15" letter-spacing="4" fill="#12293A">bowfin.works</text>
+  <!-- x offset vs BFW compensates trailing letter-spacing so glyph ink centers under BFW -->
+  <text x="172.63" y="156" text-anchor="middle" font-family="'Gotham','Montserrat','Avenir Next',Avenir,sans-serif" font-weight="500" font-size="15" letter-spacing="4" fill="#12293A">bowfin.works</text>
 </svg>
